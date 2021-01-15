@@ -1,0 +1,10 @@
+name=LedControl
+version=1.0.0
+author=Harvey Xing <xingharvey@gmail.com>
+maintainer=Harvey Xing <xingharvey@gmail.com>
+sentence=Control a single led 
+paragraph=Great for beginners!
+category=Other
+url=https://github.com/xing1357/LedControl
+architectures=*
+includes=LedControl.h
